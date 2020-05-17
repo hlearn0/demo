@@ -4,3 +4,5 @@
 
 this is some text
 this is a text (update from branch 'updates');
+
+this is a bad change in branch that causes merege conflict.
