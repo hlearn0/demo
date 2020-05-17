@@ -5,4 +5,5 @@
 this is some text
 this is a text (update from branch 'updates');
 
-This is to cause conflict when we merege.
+this is a bad change in branch that causes merege conflict.	//this is what was selected to keep on merging conflict data.
+
